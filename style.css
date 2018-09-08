@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0
+}
+a:hover{
+	background-color: #5f7286;
+	border-radius: 5px
+}
+span{
+  margin-left: 250px;
+  font-size: 20px
+}
